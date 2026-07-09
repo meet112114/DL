@@ -1,8 +1,2 @@
-# Ignore deep learning resources folders
-DL/resources/test/
-DL/resources/train/
-DL/resources/catsvsdogs/
-DL/resources/
-resources/test/
-resources/train/
-resources/catsvsdogs/
+
+resources/
